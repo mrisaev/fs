@@ -1,6 +1,6 @@
 <h1>About this repo</h1>
 
-PVC_shutter_calc.html - Jquery calculator for PVC shutters. Can be seen in www.pvhzaves.ru
+PVC_shutter_calc.html - Jquery calculator for PVC shutters. Can be seen in <a href="http//pvhzaves.ru target="_blank">www.pvhzaves.ru</a>
 
 fs.py - Various script for operations with file system object (create, delete, rename, change attributes, chande DACL etc.) 
 
