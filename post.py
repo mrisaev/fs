@@ -18,3 +18,4 @@ try:
     print x
 except urllib2.HTTPError as e:
     print e.read()
+    

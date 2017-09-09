@@ -44,3 +44,4 @@ def revealDACL(wara):
 
 for wara in sharelist:
     revealDACL(wara)
+    
