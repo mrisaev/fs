@@ -8,8 +8,6 @@ post.py - POST request template for restAPI
 
 sddl_dacl3.py - Enumerates DACL SDDL of all shared file system objects
 
-PVC_shutter_calc.html - Jquery calculator for PVC shutters.
-
 enumsh3.py - Enumerate shares and shows share attributes on windows server
 
 getinfosh.py - Get extended attributes of file share
