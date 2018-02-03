@@ -1,4 +1,4 @@
-# Get given build from share using impersonation and quite install it in lab machine
+# Get given build from share using impersonation and quiet install it in lab machine
 
 import sys, os, shutil, win32security, subprocess
 
